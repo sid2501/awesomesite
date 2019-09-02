@@ -1,0 +1,196 @@
+body{
+	background-image:url("C:\\Users\\Admin\\Desktop\\mywebsite\\images\\bg4.jpg");
+	background-size:100%;
+	/*background-color:#25274D;*/
+	color:#000;
+	font-size:18px;
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+
+.misc{
+	color:#555;
+}
+
+
+.padder{
+	padding-bottom: 25px:;
+}
+
+.headings{
+	font-family: 'Alegreya', serif;
+	font-weight:bold; 
+	letter-spacing: 0.05em;
+	text-align:center;
+	text-decoration:underline;
+	color:#222;
+}
+
+
+
+.container1{
+	padding-top:65px;
+	font-family: Rakkas,cursive;
+	background-color:#2E9CCA;
+	color:#fff;
+	text-align: center;
+	width:100%;
+	letter-spacing:0.3em;
+	margin:auto;
+	font-size:18px;
+
+	overflow:hidden;
+}
+
+#navbar{
+	position:fixed;
+	width:100%;
+	background-color:#333;
+	color:#fff;
+
+}
+
+
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:15px;
+	padding-right:30px;
+
+}
+
+#navbar a:hover{
+	color:red;
+}
+
+ .font{
+	text-decoration: none;
+	font-family: 'Alegreya', serif;
+	font-size: 25px;
+	font-weight:bold;
+	text-decoration:underline;
+	color:#555;
+
+
+}
+
+a:hover{
+	color:red;
+}
+/*#showcase{
+	background-position:center right;
+	min-height:300px;
+	margin-bottom:30px;
+	text-align: center;
+}
+*/
+img{
+	width: 400px;
+	height: auto;
+}
+.image1 {
+  margin:0px;
+  padding-top:25px;
+  padding-bottom:35px;
+  width:100%;
+  font-family: Veranda;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.srm{
+	text-align:center;
+	font-family: 'Rubik', sans-serif;
+	color:#fff;
+	letter-spacing: 0.1em;
+}
+
+.padder{
+	padding:50px 90px;
+}
+
+.image {
+  padding-top:40px;
+  padding-bottom:40px;
+  float: left;
+  width: 430px;
+  height:530px;
+  font-family: Veranda;
+}
+.image3 {
+  padding-top:40px;
+  padding-bottom:40px;
+  float: left;
+  width:440px;
+  font-family: Veranda;
+}
+
+.side {
+	padding-top:170px;
+	font-family: 'Alegreya', serif;
+	font-size: 25px;
+	font-weight:bold;
+	color:#555;
+	text-align:center;
+  	padding-left:450px;
+  	height:auto;
+  	line-height: 40px;
+}
+
+.side2 {
+	padding-top:20px;
+	font-family: 'Alegreya', serif;
+	font-size: 25px;
+	font-weight:bold;
+	color:#555;
+	text-align:center;
+  	padding-left:450px;
+  	height:auto;
+  	line-height: 40px;
+}
+
+
+#main{
+	float:left;
+	width:70%;
+	padding:0 30px;
+	box-sizing: border-box;
+}
+
+
+#main-footer{
+	background: #333;
+	color:#fff;
+	text-align: center;
+	padding:20px;
+	
+}
+
+
+
+}
